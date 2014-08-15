@@ -1,0 +1,9 @@
+#E.S.L.Y.Hotel
+#Thu Jul 24 18:47:18 CST 2014
+port=5432
+ssl=0
+password=YWRtaW4\=
+lastuser=admin
+database=hotel
+server=localhost
+username=postgres
